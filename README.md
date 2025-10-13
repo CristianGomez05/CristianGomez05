@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/CristianGomez05/CristianGomez05/blob/main/banner.png" alt="Banner - Cristian Gómez" width="100%">
-</p>
 
 <h1 align="center">¡Hola! Soy Cristian Camilo Gómez Barrera</h1>
 <h3 align="center">Fullstack Developer | Java • Django • React • AWS</h3>
