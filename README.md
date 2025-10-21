@@ -39,7 +39,7 @@ Me gusta combinar el diseño y la lógica para construir **aplicaciones completa
 
 ###  Proyectos destacados
 
--  **[Plataforma de Pedidos para Panadería](https://github.com/CristianGomez05/ecommerce-app)**  
+-  **[Plataforma de Pedidos para Panadería](https://github.com/CristianGomez05/Practica-Empresarial.git)**  
   Aplicación completa en **Java (JSF, JPA/Hibernate, PrimeFaces)** con autenticación y facturación PDF.
   
 -  **[Sistema de Gestión de OTs](https://github.com/CristianGomez05/GestioFlex.git)**  
