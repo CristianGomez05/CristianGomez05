@@ -31,8 +31,8 @@ Me gusta combinar el diseño y la lógica para construir **aplicaciones completa
 ###  Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianGomez05&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianGomez05&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+<img src="./stats.svg" height="150"/>
+<img src="./langs.svg" height="150"/>
 </p>
 
 ---
