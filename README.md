@@ -39,13 +39,13 @@ Me gusta combinar el diseño y la lógica para construir **aplicaciones completa
 
 ###  Proyectos destacados
 
--  **[Plataforma de Comercio Electrónico](https://github.com/CristianGomez05/ecommerce-app)**  
+-  **[Plataforma de Pedidos para Panadería](https://github.com/CristianGomez05/ecommerce-app)**  
   Aplicación completa en **Java (JSF, JPA/Hibernate, PrimeFaces)** con autenticación y facturación PDF.
   
--  **[Sistema de Gestión de Taller Mecánico](https://github.com/CristianGomez05/workshop-system)**  
+-  **[Sistema de Gestión de OTs](https://github.com/CristianGomez05/GestioFlex.git)**  
   Web App con **Django, React, AWS** para administración de talleres y servicios.
 
--  **[Plataforma de Pedidos para Panadería](https://github.com/CristianGomez05/panaderia-app)**  
+-  **[Plataforma de Comercio Electrónico](https://github.com/CristianGomez05/JyA-Innersport)**  
   Landing pública + zona de pedidos con **OAuth2.0 y notificaciones automáticas**.
 
 ---
