@@ -33,15 +33,6 @@ Me interesa combinar diseño y lógica para desarrollar **aplicaciones completas
 
 ---
 
-### Estadísticas de GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CristianGomez05&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianGomez05&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ### Certificaciones
 
 - **Salesforce Certified Platform App Builder**
