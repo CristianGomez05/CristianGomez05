@@ -61,9 +61,6 @@ Me interesa combinar diseño y lógica para desarrollar **aplicaciones completas
 - **GestioFlex LWC** *(Salesforce)*
   Aplicación empresarial construida sobre **Lightning Web Components**, con arquitectura multi-componente, **@wire**, **CustomEvent** y despliegue vía **SFDX CLI**.
 
-- **[Sistema de Gestión de OTs](https://github.com/CristianGomez05/GestioFlex.git)**
-  Web App con **Django, React, AWS** para administración de talleres y servicios.
-
 - **[Plataforma de Comercio Electrónico](https://github.com/CristianGomez05/JyA-Innersport)**
   Landing pública + zona de pedidos con **OAuth2.0** y notificaciones automáticas.
 
